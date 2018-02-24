@@ -34,7 +34,7 @@ export default {
     },
 
     head: {
-        title: "Horse'n Around",
+        title: "Horse'n Around With HorseStrap",
         bodyAttrs: {
             class: 'home'
         },
