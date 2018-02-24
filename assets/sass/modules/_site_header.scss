@@ -1,0 +1,13 @@
+.site_header
+{
+    background: $purple; color: #fff; padding-top: 50px;
+
+    h1 { margin: 0 }
+
+    .container {
+        display: flex; justify-content: space-between; align-items: center;
+    }
+
+    .content { flex: 1; max-width: 634px; }
+    .nily { flex: 0 0 305px; align-self: flex-end; }
+}
